@@ -4,9 +4,11 @@
 
 ![Screenshot](resources/img/icon.svg)
 
-Image tools in Twig for Craft CMS.
+Image Twig filter for Craft CMS.
 
 * Lightboxify images in HTML
+
+[See all available twig filters](doc/twig-filters.md)
 
 
 
@@ -37,6 +39,8 @@ To install the plugin, follow these instructions.
 Currently there is no configuration.
 
 ## Using TwigWorksImage
+
+[See all available twig filters and examples](doc/twig-filters.md)
 
 **Lightboxify images in HTML**
 
