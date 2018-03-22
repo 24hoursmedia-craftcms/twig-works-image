@@ -1,10 +1,13 @@
 # TwigWorksImage plugin for Craft CMS 3.x
 
+*This plugin will cost $6.99 once Craft 3 GA is released.*
+
 ![Screenshot](resources/img/icon.svg)
 
 Image tools in Twig for Craft CMS.
 
 * Lightboxify images in HTML
+
 
 
 ## Requirements
