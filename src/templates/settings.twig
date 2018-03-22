@@ -1,0 +1,26 @@
+{# @var craft \craft\web\twig\variables\CraftVariable #}
+{#
+/**
+ * TwigWorksImage plugin for Craft CMS 3.x
+ *
+ * TwigWorksImage Settings.twig
+ *
+ * @author    24hoursmedia
+ * @copyright Copyright (c) 2018 24hoursmedia
+ * @link      http://www.24hoursmedia.com
+ * @package   TwigWorksImage
+ * @since     1.0.0
+ */
+#}
+
+{% import "_includes/forms" as forms %}
+
+{% do view.registerAssetBundle("twentyfourhoursmedia\\twigworksimage\\assetbundles\\twigworksimage\\TwigWorksImageAsset") %}
+
+{{ forms.textField({
+    label: 'Some Field',
+    instructions: 'Enter some setting here.',
+    id: 'someAttribute',
+    name: 'someAttribute',
+    value: settings['someAttribute']})
+}}

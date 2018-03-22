@@ -1,0 +1,43 @@
+{
+    "name": "24hoursmedia-craft/twig-works-image",
+    "description": "twig image transforms..",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "twigworksimage"
+    ],
+    "support": {
+        "docs": "https://github.com/24hoursmedia-craft/twig-works-image/blob/master/README.md",
+        "issues": "https://github.com/24hoursmedia-craft/twig-works-image/issues"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "24HOURSMEDIA",
+            "homepage": "http://www.24hoursmedia.com"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "twentyfourhoursmedia\\twigworksimage\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "TwigWorksImage",
+        "handle": "twig-works-image",
+        "hasCpSettings": true,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/24hoursmedia-craft/twig-works-image/master/CHANGELOG.md",
+        "components": {
+            "twigWorksImageService": "twentyfourhoursmedia\\twigworksimage\\services\\TwigWorksImageService"
+        },
+        "class": "twentyfourhoursmedia\\twigworksimage\\TwigWorksImage"
+    }
+}
