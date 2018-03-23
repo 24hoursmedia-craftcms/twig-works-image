@@ -1,15 +1,15 @@
 # TwigWorksImage plugin for Craft CMS 3.x
 
-*This plugin will cost $6.99 once Craft 3 GA is released.*
+*For this plugin we will request a small fee once Craft 3 GA is released.*
 
-![Screenshot](resources/img/icon.svg)
-
-Image Twig filter for Craft CMS.
+A twig extension to apply transformations to image tags in blocks of html.
+Useful for content migrated for legacy systems.
 
 * Lightboxify images in HTML
+* Remove style and other tags from images
+* Apply classes and styles to images
 
 [See all available twig filters](doc/twig-filters.md)
-
 
 
 ## Requirements
