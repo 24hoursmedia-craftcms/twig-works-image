@@ -1,5 +1,5 @@
 {
-    "name": "t4hoursmedia-craftcms/twig-works-image",
+    "name": "24hoursmedia-craftcms/twig-works-image",
     "description": "twig image transforms..",
     "type": "craft-plugin",
     "version": "1.0.0",
@@ -11,8 +11,8 @@
         "twigworksimage"
     ],
     "support": {
-        "docs": "https://github.com/t4hoursmedia-craftcms/twig-works-image/blob/master/README.md",
-        "issues": "https://github.com/t4hoursmedia-craftcms/twig-works-image/issues"
+        "docs": "https://github.com/24hoursmedia-craftcms/twig-works-image/blob/master/README.md",
+        "issues": "https://github.com/24hoursmedia-craftcms/twig-works-image/issues"
     },
     "license": "proprietary",
     "authors": [
