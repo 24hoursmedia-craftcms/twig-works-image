@@ -2,6 +2,7 @@
 
 *For this plugin we will request a small fee once Craft 3 GA is released.*
 
+
 A twig extension to apply transformations to image tags in blocks of html.
 Useful for content migrated for legacy systems.
 
@@ -14,7 +15,7 @@ Useful for content migrated for legacy systems.
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-beta.23 or later.
+This plugin requires Craft CMS 3.0.0-RC1 or later.
 
 ## Installation
 
