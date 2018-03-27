@@ -1,6 +1,6 @@
 # TwigWorksImage plugin for Craft CMS 3.x
 
-*For this plugin we will request a small fee once Craft 3 GA is released.*
+*For extra functionalities in this plugin we will request a small fee once Craft 3 GA is released.*
 
 
 A twig extension to apply transformations to image tags in blocks of html.
