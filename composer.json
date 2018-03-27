@@ -1,6 +1,6 @@
 {
     "name": "24hoursmedia-craftcms/twig-works-image",
-    "description": "twig image transforms..",
+    "description": "Twig image transforms for CraftCMS 3.",
     "type": "craft-plugin",
     "version": "1.0.0",
     "keywords": [
@@ -8,7 +8,9 @@
         "cms",
         "craftcms",
         "craft-plugin",
-        "twigworksimage"
+        "twigworksimage",
+        "twig",
+        "image"
     ],
     "support": {
         "docs": "https://github.com/24hoursmedia-craftcms/twig-works-image/blob/master/README.md",
